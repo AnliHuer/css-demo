@@ -1,0 +1,8 @@
+div{
+    /*width: 1600px;*/
+
+    max-width: 1600px;/* 根据窗口大小调整宽度 */
+
+    margin: 0 auto;
+    background-color: green;
+}

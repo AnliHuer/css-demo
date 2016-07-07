@@ -1,0 +1,56 @@
+#table-example{
+    width: 600px;
+    height: 100%;
+
+    border:1px solid #adadad;
+    border-radius: 4px;
+
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+
+    margin: 0 auto;
+}
+
+#title, #content{
+    padding: 10px;
+}
+
+#title{
+    color: #959595;
+}
+
+caption{
+    color: #777;
+    text-align: left;
+
+}
+
+#title{
+    font-weight: bold;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 45px 15px 15px 15px;
+}
+
+thead{
+    font-weight: bold;
+    line-height: 20px;
+    padding: 8px;
+}
+
+tr{
+    height: 37px;
+    padding: 8px;
+}
+
+thead tr{
+    border-bottom: 2px solid #dddddd;
+}
+
+tbody tr{
+    border-bottom: 1px solid #dddddd;
+}
